@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Adityav9900
 - 👀 I’m interested in programming,web development
-- 🌱 I’m currently learning IT engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
     email:adityavichare9900@gmail.com
 
